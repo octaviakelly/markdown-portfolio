@@ -1,11 +1,10 @@
-<h1>Skills</h1>
+#Skills
 
-<p>Below is a <em>list</em> of my <strong>technical skills</strong>:</p>
+Below is a *list* of my **technical skills:**
 
-  <h3>Programming languages</h3>
-<ul>
-  <li> Python</li>
-  <li> JavaScript</li>
-  <li> html</li>
-  <li> css</li>
-</ul>
+ ##Programming languages
+ - Python
+ - JavaScript
+ - html
+ - css
+
