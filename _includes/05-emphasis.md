@@ -2,7 +2,7 @@
 
 Below is a *list* of my **technical skills:**
 
- ## Programming languages
+## Programming languages
  - Python
  - JavaScript
  - html
